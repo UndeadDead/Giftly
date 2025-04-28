@@ -3,14 +3,12 @@
 <head>
 giftlypersonalizedgifts.com
 <meta charset="utf-8"/>
-<meta name="description" content="Поиск подарков.">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <title> Giftly </title>
 <body>
   <h1> Пройдите опросник ниже для получения услуги </h1>
   <form action="https://formspree.io/f/your_form_id"method="POST"
-    <label>Кому дарите подарок?<br>
+    <label> Кому дарите подарок? <br>
       <input type="text" name="name" required>
     </label><br><br>
 
