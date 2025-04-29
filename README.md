@@ -7,9 +7,10 @@ giftlypersonalizedgifts.com
 <title> Giftly </title>
 <body>
   <h1> Пройдите опросник ниже для получения услуги </h1>
-  <form action="https://formspree.io/f/your_form_id"method="POST"
-    <label> Кому дарите подарок? <br>
-      <input type="text" name="name" required>
+  <form action="PHP" method="get">
+    <input type="text" name="person"><br>
+    <label for="person"> Кому дарите подарок?</label><br>
+      <input type="text" name="person" id="person" value="person" required>
     </label><br><br>
 
     <label>По какому поводу дарите?<br>
