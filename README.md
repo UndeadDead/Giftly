@@ -8,7 +8,7 @@
   <h1> Пройдите опросник ниже для получения услуги </h1>
   <form action="PHP" method="get">
     <label for="person"> Кому дарите подарок?</label><br>
-    <input type="text" name="person" id="person" value="person" required>
+    <input type="text" name="person" id="person" required>
 
     <label for="reason">По какому поводу дарите?</label><br>
     <input type="text" name="reason" id="reason" required>
